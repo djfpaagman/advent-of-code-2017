@@ -1,0 +1,13 @@
+example_id                 | status | run_time        |
+-------------------------- | ------ | --------------- |
+./spec/day1_spec.rb[1:1:1] | passed | 0.00011 seconds |
+./spec/day1_spec.rb[1:1:2] | passed | 0.00012 seconds |
+./spec/day1_spec.rb[1:1:3] | passed | 0.0001 seconds  |
+./spec/day1_spec.rb[1:1:4] | passed | 0.00008 seconds |
+./spec/day1_spec.rb[1:2:1] | passed | 0.00011 seconds |
+./spec/day1_spec.rb[1:2:2] | passed | 0.00011 seconds |
+./spec/day1_spec.rb[1:2:3] | passed | 0.0002 seconds  |
+./spec/day1_spec.rb[1:2:4] | passed | 0.00095 seconds |
+./spec/day1_spec.rb[1:2:5] | passed | 0.00019 seconds |
+./spec/day2_spec.rb[1:1:1] | passed | 0.00055 seconds |
+./spec/day2_spec.rb[1:2:1] | passed | 0.00014 seconds |
